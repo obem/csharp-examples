@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonReaderWriter", "PersonReaderWriter\PersonReaderWriter.csproj", "{31E6CE6C-2531-4FA3-80B8-789CB1F7D90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E6CE6C-2531-4FA3-80B8-789CB1F7D90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E6CE6C-2531-4FA3-80B8-789CB1F7D90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E6CE6C-2531-4FA3-80B8-789CB1F7D90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E6CE6C-2531-4FA3-80B8-789CB1F7D90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFDBEC0-1383-4814-B757-5A5DDECAFF6C}
+	EndGlobalSection
+EndGlobal
